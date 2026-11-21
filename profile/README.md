@@ -9,5 +9,4 @@ i18n where you write the text in your code, with types for every message<br>and 
 
 [Get started](https://verbaly.dev/docs/init/start) · [Docs](https://verbaly.dev/docs) · [Changelog](https://verbaly.dev/changelog) · [For AI agents](https://verbaly.dev/docs/guide/agents)
 
-<br>
 </div>
