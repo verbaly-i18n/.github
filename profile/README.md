@@ -1,11 +1,6 @@
 <div align="center">
   <br>
-  <a href="https://verbaly.dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/verbaly-i18n/.github/main/profile/lockup-dark.svg">
-      <img alt="Verbaly" src="https://raw.githubusercontent.com/verbaly-i18n/.github/main/profile/lockup-light.svg" height="52">
-    </picture>
-  </a>
+  <a href="https://verbaly.dev#gh-light-mode-only"><img alt="Verbaly" src="https://raw.githubusercontent.com/verbaly-i18n/.github/main/profile/lockup-light.svg" height="52"></a><a href="https://verbaly.dev#gh-dark-mode-only"><img alt="Verbaly" src="https://raw.githubusercontent.com/verbaly-i18n/.github/main/profile/lockup-dark.svg" height="52"></a>
   <br>
 
 ### Write natural text. Ship type-safe translations.
